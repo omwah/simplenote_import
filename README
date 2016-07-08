@@ -1,0 +1,6 @@
+Quickly built simplenote importer using:
+* https://github.com/mrtazz/simplenote.py
+* https://github.com/claytron/ever2simple
+
+A quick script to piece together these two codes to allow one to go from Evernote enex
+file straight into simplenote.
